@@ -1,0 +1,19 @@
+{
+  "name": "cache-cesium",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/progersha/Cache-Cesium.git"
+  },
+  "author": "Kseniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/progersha/Cache-Cesium/issues"
+  },
+  "homepage": "https://github.com/progersha/Cache-Cesium#readme"
+}
